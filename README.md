@@ -3,7 +3,10 @@
 ## **📋 Description**
 Cette application Android vous permet de **prendre, afficher, modifier et supprimer des notes**. Développée en Kotlin avec des composants modernes d'Android, elle offre une gestion fluide et optimisée des données.
 
-### **🔑 Fonctionnalités**
+### **🔑 Fonctionnalités** 
+
+<img width="319" alt="Capture d’écran 2024-09-25 à 14 01 37" src="https://github.com/user-attachments/assets/ff18effa-9374-47a9-aa16-df51736318f1">
+*
 - **Afficher toutes les notes** 🗒️ : Liste des notes sous forme de liste.
 - **Ajouter une nouvelle note** ➕ : Interface simple pour créer une note.
 - **Modifier une note existante** ✏️ : Mettre à jour une note en quelques étapes.
