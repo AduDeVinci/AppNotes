@@ -1,7 +1,7 @@
-Application de Prise de Note
+**Application de Prise de Note**
 
 
-Description
+**Description**
 
 Cette application Android est conçue pour permettre aux utilisateurs de prendre, afficher, modifier et supprimer des notes. Elle est construite en Kotlin, utilisant les composants modernes d'architecture Android.
 
@@ -24,7 +24,7 @@ Page d'accueil : Affiche toutes les notes avec un bouton flottant pour ajouter u
 Page d'ajout de note : Permet d'ajouter une nouvelle note dans la base de données.
 Page de mise à jour : Permet de modifier une note existante.
 
-Installation
+**Installation**
 
 Cloner ce repository :
 bash
@@ -34,17 +34,17 @@ Ouvrir le projet dans Android Studio.
 Assurez-vous d'avoir ajouté les dépendances nécessaires dans le fichier build.gradle.kts :
 kotlin
 
-// Room Database
+**Room Database**
 implementation("androidx.room:room-runtime:2.6.1")
 kapt("androidx.room:room-compiler:2.6.1")
 implementation("androidx.room:room-ktx:2.6.1")
 
-// Lifecycle components
+**Lifecycle components**
 implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0")
 implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.7.0")
 kapt("androidx.lifecycle:lifecycle-compiler:2.7.0")
 
-// Fragment KTX
+**Fragment KTX**
 implementation("androidx.fragment:fragment-ktx:1.6.2")
 Synchronisez le projet avec Gradle.
 
