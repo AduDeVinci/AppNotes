@@ -1,4 +1,4 @@
-# **📝 Application de Prise de Note**
+# **📱 Application de Prise de Note 📱**
 
 Ce projet a été réalisé par **Auriane DUPIN, Clara-Belle GININES & Maxence VAYRE** - **A5 Fintech**
 
