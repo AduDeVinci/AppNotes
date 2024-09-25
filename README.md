@@ -14,10 +14,12 @@ Cette application Android vous permet de **prendre, afficher, modifier et suppri
 - **Modifier une note existante** ✏️ : mettre à jour une note facilement.
 - **Supprimer une note** 🗑️ : effacer les notes dont vous n'avez plus besoin.
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/user-attachments/assets/84a5a441-c59b-49fc-9f32-452bbc6c0509/video.mp4" type="video/mp4">
-</video>
+### **🎥 Démo de l'application**
 
+<video width="320" height="240" controls>
+  <source src="https://github.com/user-attachments/assets/8f0f8d25-48a9-48c6-9a55-da91ba57d32e/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
