@@ -5,13 +5,13 @@ Cette application Android vous permet de **prendre, afficher, modifier et suppri
 
 ### **🔑 Fonctionnalités** 
 
-<img width="319" alt="screen" src="https://github.com/user-attachments/assets/ff18effa-9374-47a9-aa16-df51736318f1">
+
 
 - **Afficher toutes les notes** 🗒️ : Liste des notes sous forme de liste.
 - **Ajouter une nouvelle note** ➕ : Interface simple pour créer une note.
 - **Modifier une note existante** ✏️ : Mettre à jour une note en quelques étapes.
 - **Supprimer une note** 🗑️ : Effacer les notes dont vous n'avez plus besoin.
-
+<img width="319" alt="screen" src="https://github.com/user-attachments/assets/ff18effa-9374-47a9-aa16-df51736318f1">
 ---
 
 ## **🏗️ Architecture**
