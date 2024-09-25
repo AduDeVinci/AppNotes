@@ -26,13 +26,9 @@ Page de mise à jour : Permet de modifier une note existante.
 
 **Installation**
 
-Cloner ce repository :
-bash
-Copier le code
-git clone 
+Copier le code : git clone 
 Ouvrir le projet dans Android Studio.
-Assurez-vous d'avoir ajouté les dépendances nécessaires dans le fichier build.gradle.kts :
-kotlin
+Assurez-vous d'avoir ajouté les dépendances nécessaires dans le fichier build.gradle.kts : kotlin
 
 **Room Database**
 implementation("androidx.room:room-runtime:2.6.1")
