@@ -16,10 +16,7 @@ Cette application Android vous permet de **prendre, afficher, modifier et suppri
 
 ### **🎥 Démo de l'application**
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/user-attachments/assets/8f0f8d25-48a9-48c6-9a55-da91ba57d32e/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![GIF de la démo](https://github.com/user-attachments/assets/8f0f8d25-48a9-48c6-9a55-da91ba57d32e)
 
 ---
 
