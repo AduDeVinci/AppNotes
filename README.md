@@ -1,5 +1,7 @@
 # **📝 Application de Prise de Note**
 
+Ce projet a été réalisé par **Auriane DUPIN, Clara-Belle GININES & Maxence VAYRE** - **A5 Fintech**
+
 ## **📋 Description**
 Cette application Android vous permet de **prendre, afficher, modifier et supprimer des notes**. Elle est développée en Kotlin avec des composants modernes d'Android. 
 
