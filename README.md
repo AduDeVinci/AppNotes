@@ -40,11 +40,9 @@ L'application suit l'architecture **MVVM (Model-View-ViewModel)**.
    ```bash
    git clone <url_du_dépôt>
 
-Ouvrez le projet dans Android Studio.
+2. Ouvrez le projet dans Android Studio.
 
-Ajoutez les dépendances nécessaires dans le fichier build.gradle.kts :
-
-
+3. Ajoutez les dépendances nécessaires dans le fichier build.gradle.kts :
 
 // Room Database
 implementation("androidx.room:room-runtime:2.6.1")
@@ -58,8 +56,4 @@ kapt("androidx.lifecycle:lifecycle-compiler:2.7.0")
 
 // Fragment KTX
 implementation("androidx.fragment:fragment-ktx:1.6.2")
-
-Synchronisez le projet avec Gradle.
-
-Lancez l'application sur un émulateur ou un appareil physique.
 
